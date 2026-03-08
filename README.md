@@ -72,7 +72,7 @@ PracticeAuthentication/
 └── src/
     ├── config/
     │   └── db.py                # Database connection
-    │
+    │ 
     ├── dependencies/            # 🛡️ Auth Logic
     │   ├── checkToken.py        # JWT verification & middleware
     │   └── roleChecker.py       # Role-based access control
